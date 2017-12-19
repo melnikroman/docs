@@ -1,0 +1,13 @@
+c:\users\zzrus27sp_admin\documents\visual studio 2010\Projects\versions\versions\obj\x86\Debug\versions.csprojResolveAssemblyReference.cache
+C:\Users\roman.melnik\Desktop\versions\versions\obj\x86\Debug\versions.csprojResolveAssemblyReference.cache
+C:\Users\roman.melnik\Desktop\versions\versions\bin\Debug\versions.exe.config
+C:\Users\roman.melnik\Desktop\versions\versions\bin\Debug\versions.exe
+C:\Users\roman.melnik\Desktop\versions\versions\bin\Debug\versions.pdb
+C:\Users\roman.melnik\Desktop\versions\versions\obj\x86\Debug\versions.exe
+C:\Users\roman.melnik\Desktop\versions\versions\obj\x86\Debug\versions.pdb
+C:\Users\zzrus27sp_admin\Desktop\versions\versions\bin\Debug\versions.exe.config
+C:\Users\zzrus27sp_admin\Desktop\versions\versions\obj\x86\Debug\versions.exe
+C:\Users\zzrus27sp_admin\Desktop\versions\versions\obj\x86\Debug\versions.pdb
+C:\Users\zzrus27sp_admin\Desktop\versions\versions\bin\Debug\versions.exe
+C:\Users\zzrus27sp_admin\Desktop\versions\versions\bin\Debug\versions.pdb
+C:\Users\zzrus27sp_admin\Desktop\versions\versions\obj\x86\Debug\versions.csprojResolveAssemblyReference.cache

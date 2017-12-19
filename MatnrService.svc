@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="X5.SharePoint.Quality.WebServices.MatnrService" CodeBehind="MatnrService.svc.cs" %>

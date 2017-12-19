@@ -1,0 +1,212 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="2174" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="3498" fromTop="17" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="18" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="27" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="987" fromTop="23" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="1282" fromTop="27" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="28" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="34" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="16" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="21" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="36" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="30" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="18" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="24" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="19" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="24" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="36" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="26" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="31" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="1742" fromTop="9" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="1458" fromTop="7" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="18" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10490" fromTop="14" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="4383" fromTop="17" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="10465" fromTop="24" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="4895" fromTop="9" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="5233" fromTop="15" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="7216" fromTop="24" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="7216" fromTop="26" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="2392" fromTop="23" />
+      <File id="F84FD031-9C92-4C79-B894-8C1E177976BD/f:Program.cs" caret="2174" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="using" priority="30" />
+      <Item value="System" priority="30" />
+      <Item value="Net" priority="26" />
+      <Item value="Microsoft" priority="30" />
+      <Item value="SharePoint" priority="26" />
+      <Item value="const" priority="31" />
+      <Item value="String`0" priority="63" />
+      <Item value="var" priority="127" />
+      <Item value="ctx" priority="159" />
+      <Item value="string" priority="127" />
+      <Item value="SPFolder`0" priority="31" />
+      <Item value="Console`0" priority="191" />
+      <Item value="SPList`0" priority="31" />
+      <Item value="SPWeb`0" priority="31" />
+      <Item value="as" priority="63" />
+      <Item value="ClientContext`0" priority="63" />
+      <Item value="dFolderPath" priority="31" />
+      <Item value="File`0" priority="31" />
+      <Item value="new" priority="95" />
+      <Item value="Folder" priority="45" />
+      <Item value="webClient" priority="64" />
+      <Item value="Version`0" priority="31" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="FileVersionCollection`0" priority="26" />
+      <Item value="Folder`0" priority="31" />
+      <Item value="fol" priority="63" />
+      <Item value="file" priority="95" />
+      <Item value="File" priority="31" />
+      <Item value="FieldStringValues`0" priority="31" />
+      <Item value="fileInfo" priority="31" />
+      <Item value="spWeb2" priority="31" />
+      <Item value="try" priority="63" />
+      <Item value="catch" priority="63" />
+      <Item value="item" priority="63" />
+      <Item value="version" priority="31" />
+      <Item value="FileStyleUriParser`0" priority="31" />
+      <Item value="Double`0" priority="31" />
+      <Item value="double" priority="31" />
+      <Item value="spList2" priority="95" />
+      <Item value="itemCreation" priority="160" />
+      <Item value="ListItemCreationInformation" priority="28" />
+      <Item value="newFolder" priority="63" />
+      <Item value="SubFolder" priority="63" />
+      <Item value="usersString" priority="122" />
+      <Item value="spSiteUsers" priority="95" />
+      <Item value="SPUser`0" priority="31" />
+      <Item value="spUser" priority="63" />
+      <Item value="LoginName" priority="27" />
+      <Item value="a" priority="31" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="e" priority="31" />
+      <Item value="u" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+      <Item value="Join`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="161" />
+      <Item value="ReadKey`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="GetFolderByServerRelativeUrl`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.Web">
+      <Item value="GetFolderByServerRelativeUrl`0" priority="26" />
+      <Item value="ServerRelativeUrl" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.File">
+      <Item value="Versions" priority="26" />
+      <Item value="Name" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.FileCreationInformation">
+      <Item value="Content" priority="77" />
+      <Item value="Url" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="53" />
+      <Item value="ToString`0" priority="54" />
+      <Item value="Replace`0" priority="53" />
+      <Item value="Length" priority="26" />
+      <Item value="ToLower`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.Folder">
+      <Item value="ServerRelativeUrl" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPFile">
+      <Item value="Name" priority="26" />
+      <Item value="Length" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.Client.File">
+      <Item value="SaveBinaryDirect`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.FileInformation">
+      <Item value="Stream" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.ListItem">
+      <Item value="Id" priority="26" />
+      <Item value="ObjectVersion" priority="81" />
+      <Item value="Update`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPFileVersion">
+      <Item value="VersionLabel" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.ClientContext">
+      <Item value="Load`1" priority="26" />
+      <Item value="ExecuteQuery`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="TryParse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.List">
+      <Item value="EnableFolderCreation" priority="26" />
+      <Item value="AddItem`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.ListItemCreationInformation">
+      <Item value="UnderlyingObjectType" priority="26" />
+      <Item value="LeafName" priority="26" />
+      <Item value="FolderUrl" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPFolder">
+      <Item value="Name" priority="26" />
+      <Item value="Properties" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Hashtable">
+      <Item value="Values" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.UserCollection">
+      <Item value="Select`2" priority="104" />
+      <Item value="ToString`0" priority="27" />
+      <Item value="Aggregate`1" priority="55" />
+      <Item value="SelectMany`2" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.User">
+      <Item value="LoginName" priority="188" />
+      <Item value="ToString`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToString`0" priority="53" />
+      <Item value="Sum`1" priority="26" />
+      <Item value="Aggregate`1" priority="26" />
+      <Item value="Select`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="StackTrace" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
