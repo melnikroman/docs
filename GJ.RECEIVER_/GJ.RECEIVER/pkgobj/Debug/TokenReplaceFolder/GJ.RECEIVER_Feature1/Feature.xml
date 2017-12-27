@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="92658c13-06e7-4c52-bbac-8f1ca425c1d6" Scope="Web" Title="GJ.RECEIVER Feature1">
+  <ElementManifests>
+    <ElementManifest Location="UserParseEventReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

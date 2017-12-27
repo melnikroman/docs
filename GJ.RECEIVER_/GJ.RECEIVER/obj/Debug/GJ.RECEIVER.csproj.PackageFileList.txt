@@ -1,0 +1,1 @@
+bin\Debug\GJ.RECEIVER.wsp

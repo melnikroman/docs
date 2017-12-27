@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListUrl="Lists/parseUser">
+      <Receiver>
+        <Name>UserParseEventReceiverItemAdded</Name>
+        <Type>ItemAdded</Type>
+        <Assembly>GJ.RECEIVER, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dc986f4f61ebaeb1</Assembly>
+        <Class>GJ.RECEIVER.Receivers.UserParseEventReceiver.UserParseEventReceiver</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>UserParseEventReceiverItemUpdated</Name>
+        <Type>ItemUpdated</Type>
+        <Assembly>GJ.RECEIVER, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dc986f4f61ebaeb1</Assembly>
+        <Class>GJ.RECEIVER.Receivers.UserParseEventReceiver.UserParseEventReceiver</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+  </Receivers>
+</Elements>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="fcee9d75-f4d0-4f8b-9529-2a2679141c37" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="GJ.RECEIVER.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="GJ.RECEIVER_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

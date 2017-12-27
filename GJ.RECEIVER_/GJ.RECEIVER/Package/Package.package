@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="fcee9d75-f4d0-4f8b-9529-2a2679141c37" solutionId="fcee9d75-f4d0-4f8b-9529-2a2679141c37" resetWebServer="false" sharePointProductVersion="16.0" name="GJ.RECEIVER" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="357d4685-78bf-43c0-94cf-ad95a435470f" />
+  </features>
+</package>
